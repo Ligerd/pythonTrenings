@@ -1,0 +1,7 @@
+Dzień dobry, 
+Piszę w sprawie ostatniego projektu który dostałam od Pana. W zadaniu mam do przeparsowania stronę Alegro. Nie wiem czy Pan dał tą stronę świadomie, ale niestety Alegro ma mocne mechanizmy przeciwko skrapowaniu. Po kilku próbach parsowania strony dostałam Captcha z czego wnioskuję że algorytmy stosowane po stronie Alegro rozpoznali, że requesty wysyła kod a nie użytkownik. Po rozeznaniu się w temacie dowiedziałam się, że strona Alegro jest bardzo trudna do skrapowania oraz żeby przebrnąć Captcha muszę stosować płatne narzędzia. W załączniku przesyłam screenShot potwierdzający to o czym mówię. Jako propozycję rozwiązania mogę zapropanować stronę Media Expert zamiast Alegro.
+
+Dodatkowo chciałabym dopytać w jaki sposób ma się odbyć identyfikacja laptopów występujących na obydwu stronach oraz co ma być zwrócone jaki ma być format? 
+
+Pozdrawiam,
+Wiktoria Kazaczkowa

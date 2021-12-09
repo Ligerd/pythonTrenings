@@ -1,0 +1,3 @@
+Napisz funkcję, który wczytuje plik tekstowy i znajduje listę wyrazów i liczb z tego pliku wraz z numerami linii w których one występują. Wyrazy mogą być oddzielone nie tylko spacjami, ale też innymi znakami (przecinek, znak zapytania, znak nowej linii, wykrzyknik, plus, minus, gwiazdka, ukośnikitp.). 
+Liczby składają się z cyfr, a część ułamkowa jest oddzielona znakiem kropki od części całkowitej.  
+Funkcja powinna mieć dwa argumenty. Jednym z nich powinna być nazwa pliku (wraz ze ścieżką dostępu), a drugim sposób kodowania pliku. Wyniki działania funkcji powinny być zwrócone jako słownik, którego kluczami będą znalezione w pliku wyrazy i liczby a ich wartościami listy zawierające numery linii w których one występują.

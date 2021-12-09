@@ -1,0 +1,355 @@
+,Title,Monitor,Processor,RAM,Dysk,GPU,System,Prices
+0,2w1 ASUS ZenBook Flip 13 UX363EA-HP044R FHD i7-1165G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Pro PL,6499
+1,2w1 DELL Inspiron 13 7306 UHD Dotykowy i7-1165G7,"13.3"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,6799
+2,2w1 DELL XPS 13 9310 FHD+ Dotykowy i7-1165G7,"13.4"" (1920 x 1200)",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,8999
+3,2w1 MICROSOFT Surface Book 2 13.5 i7-8650U,"13.5"" (3000 x 2000)",Intel® Core™ i7-8650U,8 GB DDR3,256 GB,NVIDIA GeForce GTX 1050 2GB GDDR5,Windows 10 Pro PL,9797
+4,2w1 MICROSOFT Surface Book 3 13 Dotykowy i5-1035G7,"13.5"" (3000 x 2000)",Intel® Core™ i5-1035G7,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,Windows 10 Home PL,7639
+5,2w1 MICROSOFT Surface Pro Core M3-7Y30,"12.3"" (2736 x 1824)",Intel® Core™ m3-7Y30,4 GB,128 GB,Intel HD 615,Windows 10 Pro PL,2097
+6,ACER Aspire 3 A315-35-C6X3 NX.A6LEP.002 HD Celeron N4500,"15.6"" (1366 x 768 (HD))",Intel® Celeron® N4500,4 GB DDR4,256 GB,Intel UHD,Windows 10 Home PL,1899
+7,ACER Aspire 3 A315-35-C83K HD Celeron N4500,"15.6"" (1366 x 768 (HD))",Intel® Celeron® N4500,8 GB DDR4,512 GB,Intel UHD,Windows 10 Home PL,2099
+8,ACER Aspire 3 A317-33-C3UY FHD Celeron N4500,"17.3"" (1920 x 1080 (Full HD))",Intel® Celeron® N4500,8 GB DDR4,256 GB,Intel UHD,Windows 10 Home PL,2199
+9,ACER Aspire 5 A514-52-306T NX.HDREP.001 i3-8145U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i3-8145U,4 GB DDR4,"NVMe , PCIe , 128 GB",Intel UHD 620,Windows 10 Home (w wersji S),1997
+10,ACER Aspire 5 A514-54-307L NX.A27EP.005 FHD i3-1115G4,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1115G4,8 GB DDR4,"NVMe , PCIe , 256 GB",Intel UHD,Windows 10 Home PL,2599
+11,ACER Aspire 5 A514-54-506P NX.A27EP.003 FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"NVMe , PCIe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3199
+12,ACER Aspire 5 A515-44-R5B5 NX.HW4EP.005 FHD Ryzen 5 4500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,512 GB,AMD Radeon,Windows 10 Home PL,2799
+13,ACER Aspire 5 A515-54G-50NK NX.HN0EP.001 i5-10210U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"NVMe , PCIe , 1 TB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Home PL,2699
+14,ACER Aspire 5 A515-55-51EC NX.HSHEP.001 FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"NVMe , PCIe , 512 GB",Intel UHD,Windows 10 Home PL,2399
+15,ACER Aspire 5 A515-55-550H FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,16 GB DDR4,"NVMe , PCIe , 512 GB",Intel UHD,Windows 10 Home PL,3299
+16,ACER Aspire 5 A515-56-55NX NX.A18EP.005 FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"NVMe , PCIe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3299
+17,ACER Aspire 5 A517-52-35YC FHD i3-1115G4,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1115G4,8 GB DDR4,"NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2899
+18,ACER Aspire 5 A517-52-51Z6 NX.A5DEP.008 FHD i5-1135G7,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"NVMe , PCIe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3099
+19,ACER Aspire 7 A715-41G-R3XN NH.Q8QEP.002 FHD Ryzen 5 3550H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,8 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,3599
+20,ACER Nitro 5 AN515-43-R7Q1 NH.Q5XEP.00B Ryzen5-3550H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,16 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon RX 560X 4GB GDDR5,Windows 10 Home PL,3397
+21,ACER Nitro 5 AN515-55-5458 NH.Q7MEP.005 FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3399
+22,ACER Nitro 5 AN515-55-5458 NH.Q7MEP.005 FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3399
+23,ACER Nitro 5 AN517-51-54WS NH.Q5CEP.002 i5-9300H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-9300H,8 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3499
+24,ACER Nitro 5 AN517-51-74NF NH.Q5CEP.008 i7-9750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750H,16 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,4297
+25,ACER Nitro 5 AN517-52-50AX NH.Q8KEP.00G FHD i5-10300H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"M.2 , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5199
+26,ACER Nitro 5 AN517-52-58HN NH.Q82EP.00K FHD i5-10300H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Brak,4297
+27,ACER Predator Helios 300 PH315-52-72LF NH.Q54EP.004 i7-9750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750H,8 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,4799
+28,ACER Predator Helios 300 PH315-53-58VF NH.Q7XEP.004 FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce GTX 1660Ti 6 GB GDDR6,Windows 10 Home PL,5599
+29,ACER Predator Helios 300 PH315-53-71BS NH.Q7YEP.002 FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"NVMe , PCIe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,6199
+30,ACER Predator Helios 300 PH317-54-73QA NH.Q9VEP.007 FHD i7-10750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"NVMe , PCIe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5997
+31,ACER Predator Helios 700 PH717-72-72AC NH.Q91EP.001 FHD i7-10875H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10875H,32 GB DDR4,"NVMe , PCIe , 2 TB",2 TB,NVIDIA GeForce RTX 2070 Super 8 GB GDDR6,11499
+32,ACER Predator Helios 700 PH717-72-77Q1 NH.Q91EP.002 FHD i7-10875H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10875H,32 GB DDR4,"NVMe , PCIe , 1 TB",NVIDIA GeForce RTX 2070 Super 8 GB GDDR6,Windows 10 Home PL,10299
+33,ACER Predator Helios 700 PH717-72-94WD NH.Q92EP.001 FHD i9-10980HK,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i9-10980HK,64 GB DDR4,"NVMe , PCIe , 2 TB",1 TB,NVIDIA GeForce RTX 2080 Super 8 GB GDDR6,15999
+34,ACER Predator Triton 300 PT315-52-77KF NH.Q7BEP.002 FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"PCIe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5999
+35,ACER Predator Triton 500 PT515-51-7630 NH.Q4WEP.019 FHD i7-9750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750H,16 GB DDR4,"NVMe , PCIe , 512 GB",NVIDIA GeForce RTX 2080 Max-Q 8 GB GDDR6,Windows 10 Home PL,7899
+36,ACER Spin 1 SP111-32N N3350,"11.6"" (1920 x 1080 (Full HD))",Intel® Celeron® N3350,4 GB DDR3,"eMMC , 64 GB",Intel HD 500,Windows 10 Home PL,1347
+37,ACER Swift 1 SF114-32-P05F NX.GZLEP.003 Pentium N5000,"14"" (1920 x 1080 (Full HD))",Intel® Pentium® Silver N5000,4 GB DDR4,"NVMe , PCIe , 128 GB",Intel UHD 605,Windows 10 Home (w wersji S),1849
+38,ACER Swift 1 SF114-32-P05F NX.GZLEP.003 Pentium N5000,"14"" (1920 x 1080 (Full HD))",Intel® Pentium® Silver N5000,4 GB DDR4,"NVMe , PCIe , 128 GB",Intel UHD 605,Windows 10 Home (w wersji S),1849
+39,ACER Swift 3 SF314-42-R275 NX.HSEEP.002 FHD Ryzen 5 4500U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon,Windows 10 Home PL,2799
+40,APPLE MacBook Air 13 2560x1600 i5,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR4,"PCIe , 512 GB",Intel Iris Plus,macOS Catalina,6499
+41,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,1 TB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,7099
+42,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6459
+43,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,1 TB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,7099
+44,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,4999
+45,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,4699
+46,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,4799
+47,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB DDR4,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6999
+48,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB DDR4,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6959
+49,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,4599
+50,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,4999
+51,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,5039
+52,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,5689
+53,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,5999
+54,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,5839
+55,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB DDR4,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6459
+56,APPLE MacBook Air 13 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB DDR4,256 GB,APPLE M1 (7-rdzeniowe gpu),macOS Big Sur,5999
+57,APPLE MacBook Air 13 MQD32ZE,"13.3"" (1440 x 900)",Intel® Core™ i5,8 GB DDR3,128 GB,Intel HD 6000,macOS Sierra,3689
+58,APPLE MacBook Air 13 i3,"13.3"" (2560 x 1600)",Intel® Core™ i3,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,macOS Catalina,4699
+59,APPLE MacBook Air 13 i3,"13.3"" (2560 x 1600)",Intel® Core™ i3,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,macOS Catalina,4999
+60,APPLE MacBook Air 13 i3,"13.3"" (2560 x 1600)",Intel® Core™ i3,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,macOS Catalina,4999
+61,APPLE MacBook Air 13 i5,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,macOS Catalina,4899
+62,APPLE MacBook Air 13 i5,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR4,"PCIe , 256 GB",Intel Iris Plus,macOS Catalina,4899
+63,APPLE MacBook Air 13 i5,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR4,"PCIe , 512 GB",Intel Iris Plus,macOS Catalina,6499
+64,APPLE MacBook Air 13 i5,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR4,"PCIe , 512 GB",Intel Iris Plus,macOS Catalina,5659
+65,APPLE MacBook Pro 13.3 Gwiezdna szarość MPXT2ZE,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,256 GB,Intel Iris Plus 640,macOS Sierra,6997
+66,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB,1 TB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,7999
+67,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,8499
+68,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6499
+69,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB,256 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,6999
+70,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB,512 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,9699
+71,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB,256 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,5849
+72,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB,1 TB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,8699
+73,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,8 GB,256 GB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,5829
+74,APPLE MacBook Pro 13.3 M1,"13.3"" (2560 x 1600)",Apple M1,16 GB,1 TB,APPLE M1 (8-rdzeniowe gpu),macOS Big Sur,10999
+75,APPLE MacBook Pro 13.3 i5 1.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,512 GB,Intel Iris Plus 645,macOS Catalina,6788
+76,APPLE MacBook Pro 13.3 i5 1.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,256 GB,Intel Iris Plus 645,macOS Catalina,6299
+77,APPLE MacBook Pro 13.3 i5 1.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,512 GB,Intel Iris Plus 645,macOS Catalina,6348
+78,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,16 GB DDR4,1 TB,Intel Iris Plus,macOS Catalina,9369
+79,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,32 GB DDR4,1 TB,Intel Iris Plus,macOS Catalina,12399
+80,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,16 GB DDR4,512 GB,Intel Iris Plus,macOS Catalina,8749
+81,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,16 GB DDR4,512 GB,Intel Iris Plus,macOS Catalina,8749
+82,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,32 GB DDR4,512 GB,Intel Iris Plus,macOS Catalina,11279
+83,APPLE MacBook Pro 13.3 i5 2GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,16 GB DDR4,1 TB,Intel Iris Plus,macOS Catalina,10399
+84,APPLE MacBook Pro 13.3 z Touch Bar i5 1.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,256 GB,Intel Iris Plus 645,macOS Mojave,7499
+85,APPLE MacBook Pro 13.3 z Touch Bar i5 2.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,512 GB,Intel Iris Plus 655,macOS Mojave,7999
+86,APPLE MacBook Pro 13.3 z Touch Bar i5 2.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,256 GB,Intel Iris Plus 655,macOS Mojave,5499
+87,APPLE MacBook Pro 13.3 z Touch Bar i5 2.4GHz,"13.3"" (2560 x 1600)",Intel® Core™ i5,8 GB DDR3,512 GB,Intel Iris Plus 655,macOS Mojave,9999
+88,APPLE MacBook Pro 16 i7 2.6GHz,"16"" (3072 x 1920)",Intel® Core™ i7,16 GB DDR4,512 GB,AMD Radeon Pro 5300M 4 GB GDDR6,macOS Catalina,11499
+89,APPLE MacBook Pro 16 i7 2.6GHz,"16"" (3072 x 1920)",Intel® Core™ i7,16 GB DDR4,512 GB,AMD Radeon Pro 5300M 4 GB GDDR6,macOS Catalina,11499
+90,APPLE MacBook Pro 16 i9 2.3GHz,"16"" (3072 x 1920)",Intel® Core™ i9,16 GB DDR4,1 TB,AMD Radeon Pro 5500M 4 GB GDDR6,macOS Catalina,12399
+91,ASUS E410MA-EB338T FHD Pentium Silver N5030,"14"" (1920 x 1080 (Full HD))",Intel® Pentium® Silver N5030,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD 605,Windows 10 Home PL,1899
+92,ASUS F509DA-EJ883T FHD Ryzen 7 3700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,2899
+93,ASUS F509FJ-EJ401AT FHD i5-8265U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-8265U,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",1 TB,NVIDIA GeForce MX230 2GB GDDR5,1999
+94,ASUS F509JA-BQ613 FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Brak,2199
+95,ASUS F509JA-BQ613T FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2699
+96,ASUS F509JA-BQ651T FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2699
+97,ASUS F509JA-EJ346T FHD i3-1005G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1005G1,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2199
+98,ASUS F509JA-EJ661T FHD i3-1005G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1005G1,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2349
+99,ASUS F509JP-EJ178T FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX330 2GB GDDR5,Windows 10 Home PL,3199
+100,ASUS F515MA-BR241T HD Celeron N4020,"15.6"" (1366 x 768 (HD))",Intel® Celeron® N4020,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD 600,Windows 10 Home PL,1799
+101,ASUS F543BA-DM792T FHD A9-9425,"15.6"" (1920 x 1080 (Full HD))",AMD A9-9425,8 GB DDR4,256 GB,AMD Radeon R5,Windows 10 Home PL,1999
+102,ASUS F543MA-DM695T N4000,"15.6"" (1920 x 1080 (Full HD))",Intel® Celeron® N4000,4 GB DDR4,256 GB,Intel UHD 600,Windows 10 Home PL,1999
+103,ASUS ROG Strix G15 G512LV-HN235T FHD i7-10870H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10870H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5999
+104,ASUS ROG Strix G17 G712LV-EV045T FHD i7-10875H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10875H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,7299
+105,ASUS ROG Strix SCAR 15 G533QR-HF009T FHD AMD Ryzen 9 5900HX,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 9 5900HX,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 3070 8 GB GDDR6,Windows 10 Home PL,10799
+106,ASUS ROG Strix SCAR 15 G533QS-HF009T FHD AMD Ryzen 9 5900HX,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 9 5900HX,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 3080 16 GB GDDR6,Windows 10 Home PL,12899
+107,ASUS ROG Zephyrus Duo 15 SE GX551QS-HB014R UHD Ryzen 9 5900HX,"15.6"" (3840 x 2160 (Ultra HD 4K))",AMD Ryzen™ 9 5900HX,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 3080 16 GB GDDR6,Windows 10 Pro PL,16999
+108,ASUS ROG Zephyrus G14 GA401II-HE048T FHD Ryzen 5 4600HS,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600HS,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,5399
+109,ASUS ROG Zephyrus G14 GA401IU-HA032T WQHD Ryzen 7 4800HS,"14"" (2560 x 1440)",AMD Ryzen™ 7 4800HS,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti Max-Q 6 GB GDDR6,Windows 10 Home PL,5999
+110,ASUS ROG Zephyrus G14 GA401IU-HA062T WQHD Ryzen 9 4900HS,"14"" (2560 x 1440)",AMD Ryzen™ 9 4900HS,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660 Ti Max-Q 6 GB GDDR6,Windows 10 Home PL,6299
+111,ASUS ROG Zephyrus G14 GA401IV-HE117T FHD Ryzen 7 4800HS,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4800HS,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,6399
+112,ASUS ROG Zephyrus G14 GA401IV-HE133T FHD Ryzen 9 4900HS,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 9 4900HS,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,8499
+113,ASUS ROG Zephyrus G14 GA401QM-K2023T WQHD Ryzen 9 5900HS,"14"" (2560 x 1440)",AMD Ryzen™ 9 5900HS,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 3060 6 GB GDDR6,Windows 10 Home PL,9199
+114,ASUS ROG Zephyrus M15 GU502LW-AZ057 FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2070 Max-Q 8 GB GDDR6,Brak,6499
+115,ASUS ROG Zephyrus M15 GU502LW-AZ057T FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2070 Max-Q 8 GB GDDR6,Windows 10 Home PL,6999
+116,ASUS TUF Gaming A15 FA506IV-AL038T FHD Ryzen 9 4900H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 9 4900H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5599
+117,ASUS TUF Gaming A17 FA706IU-H7006T FHD Ryzen 7 4800H,"17.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4800H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660Ti 6 GB GDDR6,Windows 10 Home PL,5199
+118,ASUS TUF Gaming F15 FX506IH-HN190T FHD Ryzen 5 4600H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3799
+119,ASUS TUF Gaming F15 FX506LI-HN012T FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,3999
+120,ASUS TUF Gaming FX505DT-AL087T Ryzen 5 3550H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3449
+121,ASUS TUF Gaming FX505DV-AL004T FHD Ryzen 7 3750H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3750H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,4599
+122,ASUS TUF Gaming FX705DT-H7113T FHD Ryzen 7 3750H,"17.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3750H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,4499
+123,ASUS TUF Gaming FX705DT-H7116T Ryzen 5 3550H,"17.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3699
+124,ASUS Tuf Dash F15 FX516PM-HN130T FHD i7-11370H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-11370H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 3060 6 GB GDDR6,Windows 10 Home PL,4999
+125,ASUS VivoBook 14 F413DA-EK051T FHD Ryzen 3 3250U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen 3 3250U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon,Windows 10 Home (w wersji S),2199
+126,ASUS VivoBook 14 F413DA-EK286T FHD Ryzen 3 3250U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen 3 3250U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon,Windows 10 Home (w wersji S),2199
+127,ASUS VivoBook 14 F413JA-EB507T FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,2399
+128,ASUS VivoBook 14 X412DA-EK644AT FHD Ryzen 3 3200U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 3 3200U,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon Vega 3,Windows 10 Home (w wersji S),1949
+129,ASUS VivoBook 14 X412DA-EK645AT FHD Ryzen 3 3200U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 3 3200U,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon Vega 3,Windows 10 Home (w wersji S),2099
+130,ASUS VivoBook 15 F512JA-BQ684 FHD i7-1065G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Plus,Brak,3599
+131,ASUS VivoBook 17 M712DA-AU175T FHD Athlon Silver 3050U8GB,"17.3"" (1920 x 1080 (Full HD))",AMD Athlon™ Silver 3050U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon,Windows 10 Home PL,2299
+132,ASUS VivoBook Pro 15 N580GD-E4433T i5-8300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-8300H,8 GB DDR4,"M.2 Sata , 256 GB",NVIDIA GeForce GTX 1050 4GB GDDR5,Windows 10 Home PL,2697
+133,ASUS VivoBook S14 S433EA-EB027T FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3699
+134,ASUS VivoBook S14 S433FA-EB750T FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3599
+135,ASUS VivoBook S14 S433JQ-EB163T FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,3549
+136,ASUS VivoBook S15 S533JQ-BQ072T FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,3599
+137,ASUS ZenBook 13 UX325EA-AH032T FHD i5-1135G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4299
+138,ASUS ZenBook 13 UX325EA-EG027T FHD i5-1135G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4299
+139,ASUS ZenBook 13 UX325EA-KG271T FHD i5-1135G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4339
+140,ASUS ZenBook 14 UM425IA-AM004T FHD Ryzen 5 4500U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3499
+141,ASUS ZenBook 14 UM425IA-AM023T FHD Ryzen 7 4700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3999
+142,ASUS ZenBook 14 UM425IA-HM067T FHD Ryzen 5 4500U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3999
+143,ASUS ZenBook 14 UX425EA-BM063T FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4399
+144,ASUS ZenBook 14 UX425JA-BM064T FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3499
+145,ASUS ZenBook 14 UX434FQ-A5016T FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR3,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,4599
+146,ASUS ZenBook 15 UX534FAC-A8065T FHD i5-10210U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR3,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,4499
+147,ASUS ZenBook Duo 14 UX482EA-HY034R FHD Dotykowy i7-1165G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 , NVMe , 512 GB",Intel Iris Xe,Windows 10 Pro PL,7199
+148,ASUS ZenBook Duo 14 UX482EG-HY055T FHD Dotykowy i7-1165G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX450 2 GB GDDR6,Windows 10 Home PL,6799
+149,ASUS ZenBook Duo UX481FL-HJ150T FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,16 GB DDR3,"M.2 , NVMe , 1 TB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Home PL,5499
+150,ASUS ZenBook Pro Duo UX581LV-H2011R UHD Dotykowy i7-10750H,"15.6"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i7-10750H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Pro PL,10999
+151,ASUS ZenBook S UX393EA-HK001R 3.3K Dotykowy i7-1165G7,"13.9"" (3300 x 2200 (3.3K))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Pro PL,7499
+152,ASUS ZenBook UM433DA-A5021T FHD Ryzen 7 3700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,3499
+153,CAVION 10.1 Mini Atom Z3735G,"10.1"" (1024 x 600)",Intel Atom® Z3735G,1 GB DDR3,"eMMC , 32 GB",Intel HD,Windows 10 Pro PL,497
+154,DELL G5 15 5500 FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,3699
+155,DELL Inspiron 14 5401 FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3499
+156,DELL Inspiron 14 7400 QHD+ i5-1135G7,"14.5"" (2560 x 1600)",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4599
+157,DELL Inspiron 14 7400 QHD+ i7-1165G7,"14.5"" (2560 x 1600)",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,4999
+158,DELL Inspiron 15 3501 FHD i3-1005G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1005G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home (w wersji S),2109
+159,DELL Latitude 3410 FHD i5-10310U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10310U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Pro PL,3499
+160,DELL Latitude 3510 FHD i5-10310U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10310U,8 GB DDR4,"NVMe , 512 GB",Intel UHD,Windows 10 Pro PL,3799
+161,DELL Latitude 5310 FHD i5-10210U,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"NVMe , 512 GB",Intel UHD,Windows 10 Pro PL,4499
+162,DELL Latitude 5410 FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Pro PL,3999
+163,DELL Latitude 5411 FHD i7-10850H,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10850H,16 GB DDR4,"NVMe , 512 GB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Pro PL,5999
+164,DELL Latitude 5510 FHD i7-10610U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10610U,16 GB DDR4,"NVMe , 512 GB",Intel UHD,Windows 10 Pro PL,5499
+165,DELL Precision 7750 FHD i7-10850H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10850H,32 GB DDR4,"NVMe , 1 TB",NVIDIA Quadro RTX 4000 8 GB GDDR6,Windows 10 Pro PL,13499
+166,DELL Vostro 14 3490 i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"M.2 , 256 GB",Intel UHD,Windows 10 Pro PL,3699
+167,DELL Vostro 14 5401 FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,512 GB,Intel UHD,Windows 10 Pro PL,3499
+168,DELL Vostro 14 5401 FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,256 GB,Intel UHD,Windows 10 Pro PL,3199
+169,DELL Vostro 14 5401 FHD i7-1065G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,8 GB DDR4,512 GB,NVIDIA GeForce MX330 2GB GDDR5,Windows 10 Pro PL,4499
+170,DELL Vostro 15 3591 FHD i3-1005G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1005G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Pro PL,2499
+171,DELL Vostro 15 5590 FHD i5-10210U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"NVMe , 512 GB",Intel UHD,Windows 10 Pro PL,2999
+172,DELL XPS 13 7390 FHD i5-10210U,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR3,"M.2 PCIe , 512 GB",Intel UHD,Windows 10 Home PL,5849
+173,DELL XPS 13 9300 FHD+ i5-1035G1,"13.4"" (1920 x 1200)",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , 512 GB",Intel UHD,Windows 10 Home PL,6999
+174,DELL XPS 13 9305 FHD i7-1165G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,6999
+175,DELL XPS 13 9310 UHD+ Dotykowy i7-1185G7,"13.4"" (3840 x 2400 (UHD+))",Intel® Core™ i7-1185G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,9899
+176,DELL XPS 15 9500 FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , 512 GB",Intel UHD,Windows 10 Home PL,7999
+177,DELL XPS 15 9500 UHD+ i9-10885H,"15.6"" (3840 x 2400 (UHD+))",Intel® Core™ i9-10885H,64 GB DDR4,"M.2 PCIe , 2 TB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,17999
+178,HP 14-dk0009nw FHD Ryzen 3 3200U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 3 3200U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 3,Windows 10 Home PL,2299
+179,HP 14-dk0032nw FHD Ryzen 7 3700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,2799
+180,HP 14s-dq0022nw HD Celeron N4020,"14"" (1366 x 768 (HD))",Intel® Celeron® N4020,4 GB DDR4,"M.2 Sata , 128 GB",Intel UHD 600,Windows 10 Home (w wersji S),1799
+181,HP 14s-fq0012nw FHD Athlon Silver 3050U,"14"" (1920 x 1080 (Full HD))",AMD Athlon™ Silver 3050U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon,Windows 10 Home PL,2149
+182,HP 14s-fq0023nw FHD Ryzen 3 3250U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen 3 3250U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2299
+183,HP 15-db1061nw FHD Ryzen 5 3500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,2599
+184,HP 15-db1066nw FHD Ryzen 7 3700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,2949
+185,HP 15-db1067nw FHD Ryzen 5 3500,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,3199
+186,HP 15-ra073nw N3060,"15.6"" (1366 x 768 (HD))",Intel® Celeron® N3060,4 GB DDR3,500 GB,Intel HD,Windows 10 Home PL,897
+187,HP 15s-eq0032nw FHD Ryzen 7 3700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,2497
+188,HP 15s-eq0034nw FHD Ryzen 5 3500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,2399
+189,HP 15s-eq1023nw FHD Ryzen 3 3250U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen 3 3250U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2399
+190,HP 15s-eq1027nw FHD Athlon 3050U,"15.6"" (1920 x 1080 (Full HD))",AMD Athlon™ Silver 3050U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,1999
+191,HP 15s-eq1028nw FHD Ryzen 3 3250U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen 3 3250U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2899
+192,HP 15s-eq1029nw FHD Ryzen 5 4500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3149
+193,HP 15s-eq1035nw FHD Ryzen 5 4500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Brak,2199
+194,HP 15s-fq0930nw FHD Celeron N4020,"15.6"" (1920 x 1080 (Full HD))",Intel® Celeron® N4020,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD 600,Windows 10 Home PL,1999
+195,HP 15s-fq1160nw FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,2799
+196,HP 15s-fq2003nw FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,2899
+197,HP 15s-fq2004nw FHD i3-1115G4,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1115G4,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,2399
+198,HP 15s-fq2009nw FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,2599
+199,HP 15s-fq2017nw FHD i3-1115G4,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1115G4,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2599
+200,HP 17-ca1011nw FHD Ryzen 5 3500U,"17.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,2999
+201,HP Envy 13-aq1002nw FHD i7-1065G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Plus,Windows 10 Home PL,4699
+202,HP Envy 15-ep0001nw FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660 Ti Max-Q 6 GB GDDR6,Windows 10 Home PL,5999
+203,HP Envy 15-ep0004nw UHD Dotykowy i9-10885H,"15.6"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i9-10885H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB (2x 512 GB)",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,9999
+204,HP Envy 15-ep0039nw UHD Dotykowy i9-10885H,"15.6"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i9-10885H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB (2x 512 GB)",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,9999
+205,HP Envy 15-ep0040nw UHD Dotykowy i7-10750H,"15.6"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i7-10750H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,9499
+206,HP Envy 17-cg0002nw FHD i7-1065G7,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce MX330 4GB GDDR5,Windows 10 Home PL,5799
+207,HP Omen 15-dc1021nw i5-8300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-8300H,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",1 TB,NVIDIA GeForce RTX 2060 6 GB GDDR6,4497
+208,HP Omen 15-ek0009nw FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2070 Max-Q 8 GB GDDR6,Windows 10 Home PL,6499
+209,HP Omen 15-en0004nw FHD Ryzen 7 4800H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4800H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5999
+210,HP Omen 15-en0022nw FHD Ryzen 7 4800H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4800H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5999
+211,HP Omen 17-an112nw i7-8750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-8750H,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",NVIDIA GeForce GTX 1050 Ti 4GB GDDR5,Windows 10 Home PL,3997
+212,HP Omen X 2S 15-dg0000nw FHD i9-9880H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i9-9880H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB (2x 512 GB)",NVIDIA GeForce RTX 2080 8 GB GDDR6,Windows 10 Home PL,11999
+213,HP Omen X 2S 15-dg0002nw FHD i7-9750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB (2x 512 GB)",NVIDIA GeForce RTX 2070 Max-Q 8 GB GDDR6,Windows 10 Home PL,7499
+214,HP Omen X 2S 15-dg0010nw FHD i7-9750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 2080 8 GB GDDR6,Windows 10 Home PL,9997
+215,HP Pavilion 13-an0009nw i5-8265U,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-8265U,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD 620,Windows 10 Home PL,2697
+216,HP Pavilion 13-bb0003nw FHD i7-1165G7,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4199
+217,HP Pavilion 14-ce3001nw i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD 620,Windows 10 Home PL,3299
+218,HP Pavilion 14-ce3019nw FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel UHD 620,Windows 10 Home PL,3799
+219,HP Pavilion 14-dv0000nw FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,3699
+220,HP Pavilion 14-dv0001nw FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3349
+221,HP Pavilion 14-dv0012nw FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3299
+222,HP Pavilion 14-dv0033nw FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3299
+223,HP Pavilion 14-dv0034nw FHD i3-1115G4,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1115G4,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2649
+224,HP Pavilion 15-cs3001nw i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Home PL,3199
+225,HP Pavilion 15-cs3002nw i7-1065G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Home PL,3999
+226,HP Pavilion 15-cs3058nw FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX250 2GB GDDR5,Windows 10 Home PL,2599
+227,HP Pavilion 15-eg0004nw FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,3199
+228,HP Pavilion 15-eg0005nw FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,3799
+229,HP Pavilion 15-eg0053nw FHD i7-1165G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX450 2 GB GDDR6,Windows 10 Home PL,4349
+230,HP Pavilion 15-eg0075nw FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3299
+231,HP Pavilion 15-eh0007nw FHD Ryzen 5 4500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2799
+232,HP Pavilion 15-eh0008nw FHD Ryzen 5 4500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2799
+233,HP Pavilion 15-eh0024nw FHD Ryzen 7 4700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3499
+234,HP Pavilion 15-eh0025nw FHD Ryzen 7 4700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3199
+235,HP Pavilion Gaming 15-dk1056nw FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,4899
+236,HP Pavilion Gaming 15-ec0000nw FHD Ryzen 5 3550H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,8 GB DDR4,"M.2 , NVMe , 256 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,3199
+237,HP Pavilion Gaming 15-ec0045nw FHD Ryzen5-3550H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3550H,16 GB DDR4,"M.2 , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4GB GDDR5,Windows 10 Home PL,4299
+238,HP Pavilion Gaming 15-ec1066nw FHD Ryzen 5 4600H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1050 3 GB GDDR5,Windows 10 Home PL,3199
+239,HP Pavilion Gaming 16-a0018nw FHD i7-10750H,"16.1"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660 Ti Max-Q 6 GB GDDR6,Windows 10 Home PL,4299
+240,HP Pavilion Gaming 16-a0019nw FHD i7-10750H,"16.1"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660 Ti Max-Q 6 GB GDDR6,Brak,4299
+241,HP Pavilion Gaming 16-a0023nw FHD i5-10300H,"16.1"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Brak,3449
+242,HP Pavilion Gaming 16-a0026nw FHD i5-10300H,"16.1"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,3899
+243,HP Pavilion Gaming 17-cd1016nw FHD i7-10750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 Max-Q 6 GB GDDR6,Windows 10 Home PL,5999
+244,HUAWEI MateBook 13 (2020) Dotykowy i7-10510U,"13"" (2160 x 1440)",Intel® Core™ i7-10510U,16 GB DDR3,"PCIe , 512 GB",NVIDIA GeForce MX250,Windows 10 Home PL,4497
+245,HUAWEI MateBook 13 (2020) Ryzen 5 3500,"13"" (2160 x 1440)",AMD Ryzen™ 5 3500U,8 GB DDR4,"PCIe , 256 GB",AMD Radeon Vega 8,Windows 10 Home PL,2699
+246,HUAWEI MateBook 13 (2020) i5-10210U,"13"" (2160 x 1440)",Intel® Core™ i5-10210U,8 GB DDR3,"PCIe , 512 GB",Intel UHD,Windows 10 Home PL,3999
+247,HUAWEI MateBook 14 (2020) Ryzen 5 4600H,"14"" (2160 x 1440)",AMD Ryzen™ 5 4600H,16 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon,Windows 10 Home PL,3999
+248,HUAWEI MateBook 14 (2021) i5-1135G7,,,,,,,4599
+249,HUAWEI MateBook D 15 (2020) Ryzen 5 3500U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"NVMe , PCIe , 256 GB",AMD Radeon Vega 8,Windows 10 Home PL,2499
+250,HUAWEI MateBook D 15 (2021) FHD i3-10110U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i3,8 GB DDR4,"NVMe , PCIe , 256 GB",Intel UHD,Windows 10 Home PL,2799
+251,HUAWEI MateBook D 15 (2021) FHD i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"NVMe , PCIe , 512 GB",Intel Iris Xe,Windows 10 Home PL,3999
+252,HUAWEI MateBook D14 (2020) FHD Ryzen 7 3700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,8 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,2999
+253,HUAWEI MateBook D14 (2020) FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"NVMe , PCIe , 256 GB",Intel UHD,Windows 10 Home PL,2899
+254,HUAWEI MateBook D14 (2020) Ryzen 5-3500U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,2999
+255,HUAWEI MateBook D16 FHD Ryzen 5 4600H,"16.1"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600H,16 GB DDR4,"NVMe , PCIe , 512 GB",AMD Radeon,Windows 10 Home PL,3999
+256,HUAWEI MateBook X (2020) Dotykowy i5-10210U,"13"" (3000 x 2000)",Intel® Core™ i5-10210U,16 GB DDR3,"NVMe , PCIe , 512 GB",Intel UHD,Windows 10 Home PL,4999
+257,HUAWEI MateBook X Pro (2019) i5-8265U,"13.9"" (3000 x 2000)",Intel® Core™ i5-8265U,8 GB DDR3,"NVMe , PCIe , 512 GB",NVIDIA GeForce MX250 2 GB,Windows 10 Home PL,4497
+258,HUAWEI MateBook X Pro (2019) i7-8565U,"13.9"" (3000 x 2000)",Intel® Core™ i7-8565U,8 GB DDR3,"NVMe , PCIe , 512 GB",NVIDIA GeForce MX250 2 GB,Windows 10 Home PL,4999
+259,HUAWEI MateBook X Pro (2020) Dotykowy i5-10210,"13.9"" (3000 x 2000)",Intel® Core™ i5-10210U,16 GB DDR3,"NVMe , PCIe , 512 GB",NVIDIA GeForce MX250 2 GB,Windows 10 Pro PL,5999
+260,HUAWEI MateBook X Pro (2020) Dotykowy i7-10510U,"13.9"" (3000 x 2000)",Intel® Core™ i7-10510U,16 GB DDR3,"NVMe , PCIe , 1 TB",NVIDIA GeForce MX250 2 GB,Windows 10 Pro PL,7499
+261,KIANO Elegance 14.2 Pro N4200,"14.1"" (1920 x 1080 (Full HD))",Intel® Pentium® N4200,4 GB DDR3,120 GB,Intel HD 505,Windows 10 Pro PL,997
+262,LENOVO IdeaPad 3 14ADA05 81W0005XPB FHD Athlon Silver 3050U,"14"" (1920 x 1080 (Full HD))",AMD Athlon™ Silver 3050U,4 GB DDR4,"M.2 PCIe , NVMe , 256 GB",AMD Radeon,Windows 10 Home (w wersji S),1799
+263,LENOVO IdeaPad 3 14IIL05 81WD00QXPB FHD i3-1005G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i3-1005G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel UHD,Windows 10 Home PL,2099
+264,LENOVO IdeaPad 3 14IIL05 81WD00R3PB FHD i5-1035G1,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",NVIDIA GeForce MX330 2GB GDDR5,Windows 10 Home PL,2649
+265,LENOVO IdeaPad 5 14ARE05 81YM00CUPB FHD Ryzen 7 4700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,2999
+266,LENOVO IdeaPad 5 14IIL05 81YH00L7PB FHD i7-1065G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1065G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Plus,Windows 10 Home PL,3299
+267,LENOVO IdeaPad 5 15IIL05 81YK00NHPB FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce MX350 2GB GDDR5,Windows 10 Home PL,3449
+268,LENOVO IdeaPad 5 15IIL05 81YK00PYPB FHD i5-1035G1,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G1,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Brak,2449
+269,LENOVO IdeaPad Gaming 3 15IMH05 81Y400JDPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3499
+270,LENOVO IdeaPad Gaming 3 15IMH05 81Y400JJPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Brak,3199
+271,LENOVO IdeaPad Gaming 3 15IMH05 81Y400UMPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",1 TB,NVIDIA GeForce GTX 1650 4 GB GDDR6,3499
+272,LENOVO Legion 5 15ARH05 82B500L3PB FHD Ryzen 5 4600H,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3699
+273,LENOVO Legion 5 15IMH05 82AU00F6PB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,4149
+274,LENOVO Legion 5 15IMH05 82AU00FTPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Brak,3999
+275,LENOVO Legion 5 15IMH05 82AU00HUPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Brak,3899
+276,LENOVO Legion 5 15IMH05 82AU00HWPB FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti 4 GB GDDR6,Windows 10 Home PL,4299
+277,LENOVO Legion Y540-15IRH 81SX010YPB FHD i7-9750HF,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-9750HF,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660Ti 6 GB GDDR6,Brak,3999
+278,LENOVO Yoga 720-15IKB 80X700A1PB i7-7700HQ,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-7700HQ,8 GB DDR4,"PCIe , 512 GB",NVIDIA GeForce GTX 1050M 4GB GDDR5,Windows 10 Home PL,2897
+279,LENOVO Yoga Slim 7 14ARE05 82A200A2PB FHD Ryzen 7 4700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,8 GB DDR4,"M.2 PCIe , NVMe , 1 TB",AMD Radeon,Windows 10 Home PL,4099
+280,LG Gram 2021 14Z90P-G.AA54Y FHD+ i5-1135G7,"14"" (1920 x 1200)",Intel® Core™ i5-1135G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,5499
+281,LG Gram 2021 14Z90P-G.AA56Y FHD+ i5-1135G7,"14"" (1920 x 1200)",Intel® Core™ i5-1135G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,5499
+282,LG Gram 2021 16Z90P-G.AA55Y WQXGA i5-1135G7,"16"" (2560 x 1600)",Intel® Core™ i5-1135G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,5799
+283,LG Gram 2021 16Z90P-G.AA56Y WQXGA i5-1135G7,"16"" (2560 x 1600)",Intel® Core™ i5-1135G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,5799
+284,LG Gram 2021 17Z90P-G.AA75Y WQXGA i7-1165G7,"17"" (2560 x 1600)",Intel® Core™ i7-1165G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,6999
+285,LG Gram 2021 17Z90P-G.AA76Y WQXGA i7-1165G7,"17"" (2560 x 1600)",Intel® Core™ i7-1165G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,6999
+286,MICROSOFT Surface Laptop 3 13.5 i5-1035G7,"13.5"" (2256 x 1504)",Intel® Core™ i5-1035G7,8 GB DDR4,128 GB,Intel Iris Plus,Windows 10 Home PL,3699
+287,MICROSOFT Surface Laptop 4 13.5 Ryzen 5 4680U,"13.5"" (2256 x 1504)",AMD Ryzen™ 5 4680U,8 GB DDR4,256 GB,AMD Radeon RX Vega 6,Windows 10 Home PL,5199
+288,MICROSOFT Surface Laptop 4 13.5 i5-1135G7,"13.5"" (2256 x 1504)",Intel® Core™ i5-1135G7,16 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,7599
+289,MICROSOFT Surface Laptop 4 13.5 i5-1135G7,"13.5"" (2256 x 1504)",Intel® Core™ i5-1135G7,8 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,6699
+290,MICROSOFT Surface Laptop 4 13.5 i5-1135G7,"13.5"" (2256 x 1504)",Intel® Core™ i5-1135G7,8 GB DDR4,512 GB,Intel Iris Xe,Windows 10 Home PL,6699
+291,MICROSOFT Surface Laptop 4 15 Ryzen 7 4980U,"15"" (2496 x 1664)",AMD Ryzen™ 7 4980U,8 GB DDR4,256 GB,AMD Radeon Vega 8,Windows 10 Home PL,6699
+292,MICROSOFT Surface Laptop 4 15 Ryzen 7 4980U,"15"" (2496 x 1664)",AMD Ryzen™ 7 4980U,8 GB DDR4,512 GB,AMD Radeon Vega 8,Windows 10 Home PL,7599
+293,MICROSOFT Surface Laptop Go i5-1035G1,"12.4"" (1536 x 1024)",Intel® Core™ i5-1035G1,8 GB DDR4,256 GB,Intel UHD,Windows 10 Home (w wersji S),4299
+294,MICROSOFT Surface Laptop Go i5-1035G1,"12.4"" (1536 x 1024)",Intel® Core™ i5-1035G1,8 GB DDR4,128 GB,Intel UHD,Windows 10 Home (w wersji S),3399
+295,MICROSOFT Surface Platinum i5-7200U,"13.5"" (2256 x 1504)",Intel® Core™ i5-7200U,8 GB,128 GB,Intel HD 620,Windows 10 Home (w wersji S),3297
+296,MSI Bravo 17 A4DDR-088PL FHD Ryzen 5 4600H,"17.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4600H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX 5500M 4 GB GDDR6,Windows 10 Home PL,4199
+297,MSI Creator 15 A10SFS-027PL UHD i7-10875H,"15.6"" (3840 x 2160 (Ultra HD 4K))",Intel® Core™ i7-10875H,32 GB DDR4,"M.2 PCIe , NVMe , 1 TB (2x 512 GB)",NVIDIA GeForce RTX 2070 Super Max-Q 8 GB GDDR6,Windows 10 Pro PL,10999
+298,MSI GE75 Raider 10SFS-031PL FHD i9-10980HK,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i9-10980HK,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",1 TB,NVIDIA GeForce RTX 2070 Super 8 GB GDDR6,7499
+299,MSI GF63 Thin 10SCSR-449PL FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA Geforce GTX 1650 Ti Max-Q 4 GB GDDR6,Windows 10 Home PL,3799
+300,MSI GF63 Thin 10SCXR-450PL FHD i7-10750H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3799
+301,MSI GF63 Thin 10SCXR-451PL FHD i5-10300H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3799
+302,MSI GF75 Thin 10SCXR-096PL FHD 144Hz i5-10300H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10300H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,3799
+303,MSI GP75 Leopard 10SDK-023PL FHD i7-10750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660Ti 6 GB GDDR6,Windows 10 Home PL,5499
+304,MSI GP75 Leopard 10SEK-021PL i7-10750H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10750H,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 2060 6 GB GDDR6,Windows 10 Home PL,5999
+305,MSI GP76 Leopard 10UE-216PL FHD i7-10870H,"17.3"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10870H,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce RTX 3060 6 GB GDDR6,Windows 10 Home PL,7699
+306,MSI Modern 14 B10MW-037PL FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3399
+307,MSI Modern 14 B10MW-208PL FHD i7-10510U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-10510U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3899
+308,MSI Prestige 14 A10SC-215PL FHD i5-10210U,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,16 GB DDR3,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1650 Max-Q 4GB GDDR5,Windows 10 Home PL,4299
+309,MSI Prestige 14 Evo A11M-013PL FHD i7-1185G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1185G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4849
+310,MSI Prestige 14 Evo A11M-018PL FHD i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4299
+311,MSI Stealth 15M A11SDK-005PL FHD i7-1185G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1185G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce GTX 1660 Ti Max-Q 6 GB GDDR6,Windows 10 Home PL,4999
+312,MSI Stealth 15M A11UEK-019PL FHD i7-11375H,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-11375H,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce RTX 3060 6 GB GDDR6,Windows 10 Home PL,6899
+313,PEAQ Slim S130-CA464PT 13.3,"13.3"" (1920 x 1080 (Full HD))",Intel® Celeron® N3350,4 GB,64 GB,Intel HD 500,Windows 10 Home (w wersji S),899
+314,SURFACE DEMO PRO X LTE SQ1,,,,,,,2547
+315,TECHBITE Zin 14.1 Bis HD Celeron N3450,"14.1"" (1366 x 768 (HD))",Intel® Celeron® N3450,4 GB DDR4,"eMMC , 64 GB",Intel HD 500,Windows 10 Pro PL,1199
+316,TECHBITE Zin 2 FHD Celeron N3350,"14.1"" (1920 x 1080 (Full HD))",Intel® Celeron® N3350,4 GB DDR4,"eMMC , 64 GB",Intel HD 500,Windows 10 Pro PL,1099
+317,Tablet 2w1 ASUS ROG Flow X13 GV301QH-K5158T UHD+ Dotykowy Ryzen 9 5900HS,"13.4"" (3840 x 2400 (UHD+))",AMD Ryzen™ 9 5900HS,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",NVIDIA GeForce GTX 1650 4 GB GDDR6,Windows 10 Home PL,7299
+318,Tablet 2w1 ASUS ZenBook Flip 14 UM462DA-AI104T FHD Dotykowy Ryzen 5 3500U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,3299
+319,Tablet 2w1 ASUS ZenBook Flip 14 UM462DA-AI111T FHD Dotykowy Ryzen 7 3700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 3700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon RX Vega 10,Windows 10 Home PL,3999
+320,Tablet 2w1 DELL Inspiron 14 5406 FHD Dotykowy i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX330 2GB GDDR5,Windows 10 Home PL,3699
+321,Tablet 2w1 DELL Inspiron 14 5406 FHD Dotykowy i5-1135G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,8 GB DDR4,"M.2 PCIe , NVMe , 256 GB",Intel Iris Xe,Windows 10 Home PL,3799
+322,Tablet 2w1 DELL Inspiron 14 5406 FHD Dotykowy i7-1165G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,5299
+323,Tablet 2w1 HP Envy x360 13-ar0011nw Ryzen5 3500U,"13.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 3500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon Vega 8,Windows 10 Home PL,3297
+324,Tablet 2w1 HP Envy x360 13-ay0003nw FHD Dotykowy Ryzen 5 4500U,"13.3"" (1920 x 1080 (Full HD))",AMD Ryzen™ 5 4500U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3999
+325,Tablet 2w1 HP Envy x360 Convert 15-ee0004nw FHD Dotykowy Ryzen 7 4700U,"15.6"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,4099
+326,Tablet 2w1 HP Envy x360 Convertible 15-ed1010nw FHD Dotykowy i7-1165G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",NVIDIA GeForce MX450 2 GB GDDR6,Windows 10 Home PL,5499
+327,Tablet 2w1 HP Envy x360 Convertible 15-ed1011nw FHD Dotykowy i5-1135G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1135G7,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel Iris Xe,Windows 10 Home PL,4499
+328,Tablet 2w1 HP Spectre x360 Convertible 14-ea0043nw 3K2K Dotykowy i7-1165G7,"13.5"" (3000 x 2000)",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,7899
+329,Tablet 2w1 HP Spectre x360 Convertible 14-ea0065nw WUXGA+ Dotykowy i7-1165G7,"13.5"" (1920 x 1280)",Intel® Core™ i7-1165G7,16 GB DDR4,"M.2 PCIe , NVMe , 1 TB",Intel Iris Xe,Windows 10 Home PL,7449
+330,Tablet 2w1 LENOVO IdeaPad Flex 5 14ARE05 81X20086PB FHD Dotykowy Ryzen 7 4700U,"14"" (1920 x 1080 (Full HD))",AMD Ryzen™ 7 4700U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",AMD Radeon,Windows 10 Home PL,3499
+331,Tablet 2w1 LENOVO Yoga C640-13IML 81UE007TPB FHD Dotykowy i5-10210U,"13.3"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,8 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3499
+332,Tablet 2w1 LENOVO Yoga C740-15IML 81TD006SPB FHD Dotykowy i5-10210U,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-10210U,16 GB DDR4,"M.2 PCIe , NVMe , 512 GB",Intel UHD,Windows 10 Home PL,3699
+333,Tablet 2w1 MICROSOFT Surface Go 2 LTE m3-8100Y,"10.5"" (1920 x 1280)",Intel® Core™ m3-8100Y,8 GB,128 GB,Intel UHD 615,Windows 10 Home (w wersji S),3999
+334,Tablet 2w1 MICROSOFT Surface Go 2 Wi-Fi Dotykowy Pentium 4425Y,"10.5"" (1920 x 1280)",Intel® Pentium® Gold 4425Y,8 GB,128 GB,Intel UHD 615,Windows 10 Home (w wersji S),2899
+335,Tablet 2w1 MICROSOFT Surface Go 2 Wi-Fi Dotykowy Pentium 4425Y,"10.5"" (1920 x 1280)",Intel® Pentium® Gold 4425Y,4 GB,64 GB,Intel UHD 615,Windows 10 Home (w wersji S),2599
+336,Tablet 2w1 MICROSOFT Surface Go 2 Wi-Fi Dotykowy Pentium 4425Y,"10.5"" (1920 x 1280)",Intel® Pentium® Gold 4425Y,4 GB,64 GB,Intel UHD 615,Windows 10 Home (w wersji S),2399
+337,Tablet 2w1 MICROSOFT Surface Go 2 Wi-Fi Dotykowy Pentium 4425Y,"10.5"" (1920 x 1280)",Intel® Pentium® Gold 4425Y,4 GB,64 GB,Intel UHD 615,Windows 10 Home (w wersji S),2599
+338,Tablet 2w1 MICROSOFT Surface Go 4415Y,"10"" (1800 x 1200)",Intel® Pentium® 4415Y,4 GB,"eMMC , 64 GB",Intel HD 615,Windows 10 Home (w wersji S),1797
+339,Tablet 2w1 MICROSOFT Surface Go 4415Y,"10"" (1800 x 1200)",Intel® Pentium® 4415Y,8 GB,128 GB,Intel HD 615,Windows 10 Home (w wersji S),2097
+340,Tablet 2w1 MICROSOFT Surface Go MHN-00004 4415Y,"10"" (1800 x 1200)",Intel® Pentium® 4415Y,4 GB,"eMMC , 64 GB",Intel HD 615,Windows 10 Home (w wersji S),1997
+341,Tablet 2w1 MICROSOFT Surface Pro 6 i5-8250U,"12.3"" (2736 x 1824)",Intel® Core™ i5-8250U,8 GB,128 GB,Intel UHD 620,Windows 10 Home PL,3297
+342,Tablet 2w1 MICROSOFT Surface Pro 7 i3-1005G1,"12.3"" (2736 x 1824)",Intel® Core™ i3-1005G1,4 GB DDR4,128 GB,Intel UHD,Windows 10 Home PL,3968
+343,Tablet 2w1 MICROSOFT Surface Pro 7 i5-1035G4,"12.3"" (2736 x 1824)",Intel® Core™ i5-1035G4,8 GB DDR4,128 GB,Intel Iris Plus,Windows 10 Home PL,4699
+344,Tablet 2w1 MICROSOFT Surface Pro 7 i5-1035G4,"12.3"" (2736 x 1824)",Intel® Core™ i5-1035G4,8 GB DDR4,128 GB,Intel Iris Plus,Windows 10 Home PL,5199
+345,Tablet 2w1 MICROSOFT Surface Pro X SQ1,"13"" (2880 x 1920)",Microsoft® SQ1™,8 GB DDR4,128 GB,Adreno 685,Windows 10 Home PL,5499
+346,Tablet 2w1 MICROSOFT Surface Pro X SQ1,"13"" (2880 x 1920)",Microsoft® SQ1™,8 GB DDR4,256 GB,Adreno 685,Windows 10 Home PL,6399
+347,Tablet 2w1 MICROSOFT Surface Pro X SQ1,"13"" (2880 x 1920)",Microsoft® SQ1™,8 GB DDR4,128 GB,Adreno 685,Windows 10 Home PL,4899
+348,Tablet 2w1 MICROSOFT Surface Pro i5-7300U,"12.3"" (2736 x 1824)",Intel® Core™ i5-7300U,8 GB,128 GB,Intel HD 620,Windows 10 Pro PL,3297
+349,Ultrabook LG Gram 14 (2020) 14Z90N-V.AR52Y FHD i5-1035G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G7,8 GB DDR4,"NVMe , 256 GB",Intel Iris Plus,Windows 10 Home PL,3699
+350,Ultrabook LG Gram 14 (2020) 14Z90N-V.AR53Y FHD i5-1035G7,"14"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G7,8 GB DDR4,"NVMe , 256 GB",Intel Iris Plus,Windows 10 Home PL,3699
+351,Ultrabook LG Gram 15 (2020) 15Z90N-V.AR52Y FHD i5-1035G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G7,8 GB DDR4,"NVMe , 256 GB",Intel Iris Plus,Windows 10 Home PL,4499
+352,Ultrabook LG Gram 15 (2020) 15Z90N-V.AR53Y FHD i5-1035G7,"15.6"" (1920 x 1080 (Full HD))",Intel® Core™ i5-1035G7,8 GB DDR4,"NVMe , 256 GB",Intel Iris Plus,Windows 10 Home PL,4499
+353,Ultrabook LG Gram 17 (2020) 17Z90N-V.AA75Y WQXGA i7-1065G7,"17"" (2560 x 1600)",Intel® Core™ i7-1065G7,8 GB DDR4,"NVMe , 512 GB",Intel Iris Plus,Windows 10 Home PL,5499

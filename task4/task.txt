@@ -1,0 +1,1 @@
+Napisz program, który umożliwia wykonanie następujących funkcji: 1. Odczyta parametry i ceny laptopów wystawionych na sprzedaż na stronach allegro.pl oraz MediaMarkt.pl 2. Zapisze ceny laptopów 3. Identyfikacja laptopów występujących na obydwu stronach 4. Dodanie danych z trzeciej strony będzie dodatkowym bonusem.
